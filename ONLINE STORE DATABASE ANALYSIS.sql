@@ -165,7 +165,7 @@ BEGIN
 END $$
 
 DELIMITER ;
--- To Call Total Sales Stored Procedure --
+-- To Call Total Sales just by inputing product_id as input --
 CALL GET_TOTAL_SALES(1);
 
 
