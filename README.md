@@ -1,4 +1,4 @@
-# Online Store Database Project
+# Online Store Database Analysis
 
 ## ✤ Project Description:
 
