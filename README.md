@@ -57,14 +57,4 @@ Query: Identify customers who purchased a specific product, including their cont
 ## Q12: Stored Procedure for Total Sales  
 Query: Create a stored procedure to calculate the total sales for a given product.
 
-## ✤ How to Use:
-
-1. **Clone Repository**: Clone the project to your local machine.
-2. **Setup MySQL**: Ensure you have MySQL installed and running.
-3. **Execute Scripts**: Run the provided SQL script to create the schema, tables, and populate data.
-4. **Run Queries**: Use the provided queries to interact with the database.
-
-## ✤ License:
-
-This project is open-source and can be modified or distributed under the MIT license.
 
