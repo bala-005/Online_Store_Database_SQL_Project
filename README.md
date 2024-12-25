@@ -1,6 +1,6 @@
 # Online Store Database Analysis
 
-## ➤ Project Description:
+## ➢ Project Description:
 
 - This project demonstrates the creation and management of a relational database for an online store using MySQL.
 
@@ -21,40 +21,40 @@
 
 ## ➤ Queries of the Project:
 
-## Q1: Get Order Details for Each Product in an Order  
+➟ Q1: Get Order Details for Each Product in an Order  
 Query: Retrieve order details, including the product name, quantity, and customer ID for each order.
 
-## Q2: Join Products with Categories  
+➟ Q2: Join Products with Categories  
 Query: Display all products along with their respective category names.
 
-## Q3: Display All Products Including Those Without a Category  
+➟ Q3: Display All Products Including Those Without a Category  
 Query: Use a LEFT JOIN to display products that may not belong to any category.
 
-## Q4: Find Products with Prices Greater than the Average Price  
+➟ Q4: Find Products with Prices Greater than the Average Price  
 Query: Identify high-value products whose price exceeds the average price of all products.
 
-## Q5: Find Products in the "Consoles" Category  
+➟ Q5: Find Products in the "Consoles" Category  
 Query: List all products belonging to the "Consoles" category.
 
-## Q6: Count Total Products in Each Category  
+➟ Q6: Count Total Products in Each Category  
 Query: Count the number of products available in each category.
 
-## Q7: List Stock Availability  
+➟ Q7: List Stock Availability  
 Query: Display stock levels and classify products as "Low Stock" or "In Stock."
 
-## Q8: Customers with Multiple Orders  
+➟ Q8: Customers with Multiple Orders  
 Query: Identify customers who have placed multiple orders.
 
-## Q9: Update Stock on Order Placement  
+➟ Q9: Update Stock on Order Placement  
 Query: Simulate stock adjustments when an order is placed.
 
-## Q10: Total Sales per Product  
+➟ Q10: Total Sales per Product  
 Query: Calculate the total quantity sold for each product.
 
-## Q11: Customers Who Purchased a Specific Product  
+➟ Q11: Customers Who Purchased a Specific Product  
 Query: Identify customers who purchased a specific product, including their contact details.
 
-## Q12: Stored Procedure for Total Sales  
+➟ Q12: Stored Procedure for Total Sales  
 Query: Create a stored procedure to calculate the total sales for a given product.
 
 
