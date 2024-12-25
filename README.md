@@ -7,18 +7,18 @@
 - The objective of the project is to manage store data efficiently, analyze trends, and perform operations such as managing inventory, customer orders, and sales insights.
 
 - The goal of the project is to answer key business questions and help optimize the store’s operations for improved decision-making.
-
+---
 ## ➤ Tool Used:
 
 - MySQL
-
+---
 ## ➤ Tables Used:
 - Products
 - Customers
 - Orders
 - Order Details
 - Categories
-
+---
 ## ➤ Queries of the Project:
 
 ➟ Q1: Get Order Details for Each Product in an Order  
