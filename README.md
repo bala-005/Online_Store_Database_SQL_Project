@@ -1,6 +1,6 @@
 # Online Store Database Analysis
 
-## ✤ Project Description:
+## ➤ Project Description:
 
 - This project demonstrates the creation and management of a relational database for an online store using MySQL.
 
@@ -8,18 +8,18 @@
 
 - The goal of the project is to answer key business questions and help optimize the store’s operations for improved decision-making.
 
-## ✤ Tool Used:
+## ➤ Tool Used:
 
 - MySQL
 
-## ✤ Tables Used:
+## ➤ Tables Used:
 - Products
 - Customers
 - Orders
 - Order Details
 - Categories
 
-## ✤ Queries of the Project:
+## ➤ Queries of the Project:
 
 ## Q1: Get Order Details for Each Product in an Order  
 Query: Retrieve order details, including the product name, quantity, and customer ID for each order.
